@@ -10,4 +10,8 @@ contract TodoList{
         bool completed;
     }
     mapping (uint=>Task) public tasks;
+
+    function createTask(string memory _content) public {
+
+    }
 }
