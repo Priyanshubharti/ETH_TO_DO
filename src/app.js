@@ -32,7 +32,7 @@ App = {
     }
     // Non-dapp browsers...
     else {
-      console.log('Non-Ethereum browser detected. You should consider trying MetaMask!')
+      console.log('Non-Ethereum browser detected. Maybe you should consider trying MetaMask!')
     }
 }
 }
